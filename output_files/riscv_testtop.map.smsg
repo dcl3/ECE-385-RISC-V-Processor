@@ -1,0 +1,17 @@
+Warning (10273): Verilog HDL warning at HexDriver.sv(24): extended using "x" or "z" File: C:/Users/mikelee/Documents/ECE385/final/HexDriver.sv Line: 24
+Warning (10273): Verilog HDL warning at alu_control.sv(24): extended using "x" or "z" File: C:/Users/mikelee/Documents/ECE385/final/alu_control.sv Line: 24
+Warning (10273): Verilog HDL warning at alu_control.sv(50): extended using "x" or "z" File: C:/Users/mikelee/Documents/ECE385/final/alu_control.sv Line: 50
+Warning (10273): Verilog HDL warning at alu_control.sv(56): extended using "x" or "z" File: C:/Users/mikelee/Documents/ECE385/final/alu_control.sv Line: 56
+Warning (10273): Verilog HDL warning at alu_control.sv(66): extended using "x" or "z" File: C:/Users/mikelee/Documents/ECE385/final/alu_control.sv Line: 66
+Info (10281): Verilog HDL Declaration information at riscV_sramtop.sv(2): object "Run" differs only in case from object "RUN" in the same scope File: C:/Users/mikelee/Documents/ECE385/final/riscV_sramtop.sv Line: 2
+Info (10281): Verilog HDL Declaration information at riscV_sramtop.sv(2): object "Continue" differs only in case from object "CONTINUE" in the same scope File: C:/Users/mikelee/Documents/ECE385/final/riscV_sramtop.sv Line: 2
+Info (10281): Verilog HDL Declaration information at riscV.sv(26): object "HEX0" differs only in case from object "hex0" in the same scope File: C:/Users/mikelee/Documents/ECE385/final/riscV.sv Line: 26
+Info (10281): Verilog HDL Declaration information at riscV.sv(26): object "HEX1" differs only in case from object "hex1" in the same scope File: C:/Users/mikelee/Documents/ECE385/final/riscV.sv Line: 26
+Info (10281): Verilog HDL Declaration information at riscV.sv(26): object "HEX2" differs only in case from object "hex2" in the same scope File: C:/Users/mikelee/Documents/ECE385/final/riscV.sv Line: 26
+Info (10281): Verilog HDL Declaration information at riscV.sv(26): object "HEX3" differs only in case from object "hex3" in the same scope File: C:/Users/mikelee/Documents/ECE385/final/riscV.sv Line: 26
+Info (10281): Verilog HDL Declaration information at riscV.sv(26): object "HEX4" differs only in case from object "hex4" in the same scope File: C:/Users/mikelee/Documents/ECE385/final/riscV.sv Line: 26
+Info (10281): Verilog HDL Declaration information at riscV.sv(26): object "HEX5" differs only in case from object "hex5" in the same scope File: C:/Users/mikelee/Documents/ECE385/final/riscV.sv Line: 26
+Warning (10273): Verilog HDL warning at mux_2x1.sv(11): extended using "x" or "z" File: C:/Users/mikelee/Documents/ECE385/final/mux_2x1.sv Line: 11
+Warning (10273): Verilog HDL warning at mux_2x1.sv(28): extended using "x" or "z" File: C:/Users/mikelee/Documents/ECE385/final/mux_2x1.sv Line: 28
+Warning (10273): Verilog HDL warning at control.sv(79): extended using "x" or "z" File: C:/Users/mikelee/Documents/ECE385/final/control.sv Line: 79
+Warning (10273): Verilog HDL warning at control.sv(83): extended using "x" or "z" File: C:/Users/mikelee/Documents/ECE385/final/control.sv Line: 83

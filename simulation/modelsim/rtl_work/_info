@@ -1,0 +1,590 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mikelee/Documents/ECE385/final/simulation/modelsim
+valu
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1652313544
+!i10b 1
+!s100 Ib1Hf`UCi=Tb_5@EHc34O1
+IQ`WMeS:B:dAHk0Dej4jS>2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 alu_sv_unit
+S1
+R0
+w1652308573
+8C:/Users/mikelee/Documents/ECE385/final/alu.sv
+FC:/Users/mikelee/Documents/ECE385/final/alu.sv
+L0 3
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1652313544.000000
+!s107 C:/Users/mikelee/Documents/ECE385/final/definitions.sv|C:/Users/mikelee/Documents/ECE385/final/alu.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/alu.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work +incdir+C:/Users/mikelee/Documents/ECE385/final
+Z8 tCvgOpt 0
+valu_control
+R1
+R2
+!i10b 1
+!s100 aVQhcMeneQDP?Ki>Hi6aL3
+ISYYnARnkhk=7V3e9_iEB:2
+R3
+!s105 alu_control_sv_unit
+S1
+R0
+w1652308554
+8C:/Users/mikelee/Documents/ECE385/final/alu_control.sv
+FC:/Users/mikelee/Documents/ECE385/final/alu_control.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mikelee/Documents/ECE385/final/definitions.sv|C:/Users/mikelee/Documents/ECE385/final/alu_control.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/alu_control.sv|
+!i113 1
+R6
+R7
+R8
+vcontrol
+R1
+Z9 !s110 1652313545
+!i10b 1
+!s100 iJGXIgQMVIZggRbDad`>V2
+I3GScInCcbcSAI_f`V>D[92
+R3
+!s105 control_sv_unit
+S1
+R0
+w1652311670
+8C:/Users/mikelee/Documents/ECE385/final/control.sv
+FC:/Users/mikelee/Documents/ECE385/final/control.sv
+L0 3
+R4
+r1
+!s85 0
+31
+Z10 !s108 1652313545.000000
+!s107 C:/Users/mikelee/Documents/ECE385/final/definitions.sv|C:/Users/mikelee/Documents/ECE385/final/control.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/control.sv|
+!i113 1
+R6
+R7
+R8
+vcontrol_transfer
+R1
+R2
+!i10b 1
+!s100 NY`[AE_PP[PBnJ4_NAX0k3
+IoR>FG2<ER6FT52KEoTe<N1
+R3
+!s105 control_transfer_sv_unit
+S1
+R0
+w1652308531
+8C:/Users/mikelee/Documents/ECE385/final/control_transfer.sv
+FC:/Users/mikelee/Documents/ECE385/final/control_transfer.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mikelee/Documents/ECE385/final/definitions.sv|C:/Users/mikelee/Documents/ECE385/final/control_transfer.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/control_transfer.sv|
+!i113 1
+R6
+R7
+R8
+vdatapath
+R1
+Z11 !s110 1652313543
+!i10b 1
+!s100 5cFUh5N?ALd3d2NG1K3J42
+IGLVEz^Lz3HXIniG6B=Xz73
+R3
+!s105 datapath_sv_unit
+S1
+R0
+w1652312403
+8C:/Users/mikelee/Documents/ECE385/final/datapath.sv
+FC:/Users/mikelee/Documents/ECE385/final/datapath.sv
+L0 13
+R4
+r1
+!s85 0
+31
+Z12 !s108 1652313543.000000
+!s107 C:/Users/mikelee/Documents/ECE385/final/datapath.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/datapath.sv|
+!i113 1
+R6
+R7
+R8
+vHexDriver
+R1
+R11
+!i10b 1
+!s100 F7dDJLKONLDlAhT4ll@HA3
+IE09Gd5>3ScRc28ADB:9b03
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+w1651843236
+8C:/Users/mikelee/Documents/ECE385/final/HexDriver.sv
+FC:/Users/mikelee/Documents/ECE385/final/HexDriver.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/mikelee/Documents/ECE385/final/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/HexDriver.sv|
+!i113 1
+R6
+R7
+R8
+n@hex@driver
+vimmediate_generator
+R1
+R9
+!i10b 1
+!s100 jcG:fEjCBJ?h8ZgiEGTm[3
+IOozT_<YzXS<gE=9:0k_kc2
+R3
+!s105 immediate_generator_sv_unit
+S1
+R0
+w1651845155
+8C:/Users/mikelee/Documents/ECE385/final/immediate_generator.sv
+FC:/Users/mikelee/Documents/ECE385/final/immediate_generator.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/mikelee/Documents/ECE385/final/definitions.sv|C:/Users/mikelee/Documents/ECE385/final/immediate_generator.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/immediate_generator.sv|
+!i113 1
+R6
+R7
+R8
+vinstruction_decoder
+R1
+R2
+!i10b 1
+!s100 j4?VC@el^c4@<OXfjcanC0
+I@:0LoN;XoHfiFG@V;13C?3
+R3
+!s105 instruction_decoder_sv_unit
+S1
+R0
+w1651853888
+8C:/Users/mikelee/Documents/ECE385/final/instruction_decoder.sv
+FC:/Users/mikelee/Documents/ECE385/final/instruction_decoder.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mikelee/Documents/ECE385/final/instruction_decoder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/instruction_decoder.sv|
+!i113 1
+R6
+R7
+R8
+vmem2IO
+R1
+R2
+!i10b 1
+!s100 `175[SBoX_e@d>H0LK?X62
+I2QWa7GebaPSbRjibO:;M62
+R3
+!s105 mem2IO_sv_unit
+S1
+R0
+w1652115696
+8C:/Users/mikelee/Documents/ECE385/final/mem2IO.sv
+FC:/Users/mikelee/Documents/ECE385/final/mem2IO.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mikelee/Documents/ECE385/final/mem2IO.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/mem2IO.sv|
+!i113 1
+R6
+R7
+R8
+nmem2@i@o
+Xmemory_contents_sv_unit
+R1
+Z13 DXx4 work 22 RISCV_Opcode_Constants 0 22 Y]9oEM>;F;f=0?X^VFz]M0
+VU0SoK[Pjk]@U_R?MI5<SC2
+r1
+!s85 0
+31
+!i10b 1
+!s100 QZIJn^5Z5ZTe=F>G4G66a1
+IU0SoK[Pjk]@U_R?MI5<SC2
+!i103 1
+S1
+R0
+Z14 w1652312189
+Z15 8C:/Users/mikelee/Documents/ECE385/final/memory_contents.sv
+Z16 FC:/Users/mikelee/Documents/ECE385/final/memory_contents.sv
+Z17 FC:/Users/mikelee/Documents/ECE385/final/RISCV_Opcode_Constants.sv
+L0 16
+R4
+R5
+Z18 !s107 C:/Users/mikelee/Documents/ECE385/final/RISCV_Opcode_Constants.sv|C:/Users/mikelee/Documents/ECE385/final/memory_contents.sv|
+Z19 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/memory_contents.sv|
+!i113 1
+R6
+R7
+R8
+vmemory_parser
+R1
+R13
+DXx4 work 23 memory_contents_sv_unit 0 22 U0SoK[Pjk]@U_R?MI5<SC2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 lB7HUzKmMKdSageK0]S2;1
+I1[_k:LUa5CeWW[C6`D_K<3
+!s105 memory_contents_sv_unit
+S1
+R0
+w1652311114
+R15
+R16
+Z20 L0 18
+R4
+R5
+R18
+R19
+!i113 1
+R6
+R7
+R8
+vmux_2x1
+R1
+R2
+!i10b 1
+!s100 SC4P1mSH7@YYc@TfnI2PE0
+IXU90Ozn?0`?C9ZTGkn6R?2
+R3
+Z21 !s105 mux_2x1_sv_unit
+S1
+R0
+Z22 w1651843244
+Z23 8C:/Users/mikelee/Documents/ECE385/final/mux_2x1.sv
+Z24 FC:/Users/mikelee/Documents/ECE385/final/mux_2x1.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+Z25 !s107 C:/Users/mikelee/Documents/ECE385/final/mux_2x1.sv|
+Z26 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/mux_2x1.sv|
+!i113 1
+R6
+R7
+R8
+vmux_4x1
+R1
+R2
+!i10b 1
+!s100 gF[1ADXdm:2^]98VOMH=>2
+Idg>cz1:aXoBJimXne5doT0
+R3
+R21
+S1
+R0
+R22
+R23
+R24
+L0 17
+R4
+r1
+!s85 0
+31
+R5
+R25
+R26
+!i113 1
+R6
+R7
+R8
+vreg_32
+R1
+R2
+!i10b 1
+!s100 MP=GQ:QE7eHY_]3COa=IS2
+IJ_U4mBj2H]k<<B^LSS9W80
+R3
+!s105 reg_32_sv_unit
+S1
+R0
+w1651843262
+8C:/Users/mikelee/Documents/ECE385/final/reg_32.sv
+FC:/Users/mikelee/Documents/ECE385/final/reg_32.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mikelee/Documents/ECE385/final/reg_32.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/reg_32.sv|
+!i113 1
+R6
+R7
+R8
+vregisterfile
+R1
+R2
+!i10b 1
+!s100 n?Z0NL;RUMnUOST13V@Gh2
+Iena<Z]Ag;6d746E3UKIR`2
+R3
+!s105 registerfile_sv_unit
+S1
+R0
+w1652311838
+8C:/Users/mikelee/Documents/ECE385/final/registerfile.sv
+FC:/Users/mikelee/Documents/ECE385/final/registerfile.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mikelee/Documents/ECE385/final/registerfile.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/registerfile.sv|
+!i113 1
+R6
+R7
+R8
+vriscV
+R1
+R2
+!i10b 1
+!s100 P8^ea_NlJ<e1`SZ9V@iHi3
+Ioa_05R9_QOA:iSfZ7iX<Z1
+R3
+!s105 riscV_sv_unit
+S1
+R0
+w1652285701
+8C:/Users/mikelee/Documents/ECE385/final/riscV.sv
+FC:/Users/mikelee/Documents/ECE385/final/riscV.sv
+L0 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mikelee/Documents/ECE385/final/riscV.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/riscV.sv|
+!i113 1
+R6
+R7
+R8
+nrisc@v
+XRISCV_Opcode_Constants
+R1
+R2
+!i10b 1
+!s100 oW5o:zGBeA=5kCFh@8BR@3
+IY]9oEM>;F;f=0?X^VFz]M0
+VY]9oEM>;F;f=0?X^VFz]M0
+S1
+R0
+R14
+8C:/Users/mikelee/Documents/ECE385/final/RISCV_Opcode_Constants.sv
+R17
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+R18
+R19
+!i113 1
+R6
+R7
+R8
+n@r@i@s@c@v_@opcode_@constants
+vriscv_testtop
+R1
+R9
+!i10b 1
+!s100 fY3JC=FQ402HT^L1[aj]e3
+ILUL7@<bchO6;jGZ>QdZa73
+R3
+!s105 riscv_testtop_sv_unit
+S1
+R0
+w1651850682
+8C:/Users/mikelee/Documents/ECE385/final/riscv_testtop.sv
+FC:/Users/mikelee/Documents/ECE385/final/riscv_testtop.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/mikelee/Documents/ECE385/final/riscv_testtop.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/riscv_testtop.sv|
+!i113 1
+R6
+R7
+R8
+vsync
+R1
+R11
+!i10b 1
+!s100 FhoOY^og4I?9Cc^c7ObZM0
+I[H;_Q;m[>[aj0_DYP??0i3
+R3
+Z27 !s105 synchronizer_sv_unit
+S1
+R0
+Z28 w1651843289
+Z29 8C:/Users/mikelee/Documents/ECE385/final/synchronizer.sv
+Z30 FC:/Users/mikelee/Documents/ECE385/final/synchronizer.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R12
+Z31 !s107 C:/Users/mikelee/Documents/ECE385/final/synchronizer.sv|
+Z32 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/synchronizer.sv|
+!i113 1
+R6
+R7
+R8
+vsync_r0
+R1
+R11
+!i10b 1
+!s100 F4kFA0RGY>^^_PKi<88ka0
+Ij?O:9PQnB3I6ckhfG98:i3
+R3
+R27
+S1
+R0
+R28
+R29
+R30
+R20
+R4
+r1
+!s85 0
+31
+R12
+R31
+R32
+!i113 1
+R6
+R7
+R8
+vsync_r1
+R1
+R11
+!i10b 1
+!s100 VJmMED@G;gIj=]@=Z]39e1
+I;f>IM>::3;_<B8lj<DYeA0
+R3
+R27
+S1
+R0
+R28
+R29
+R30
+L0 39
+R4
+r1
+!s85 0
+31
+R12
+R31
+R32
+!i113 1
+R6
+R7
+R8
+vtest_memory
+R1
+R11
+!i10b 1
+!s100 7=@bG[:OBE@G[@^0<;;Wd0
+IS?jhQzZc@DG`oi_f_a_B00
+R3
+!s105 test_memory_sv_unit
+S1
+R0
+w1651847817
+8C:/Users/mikelee/Documents/ECE385/final/test_memory.sv
+FC:/Users/mikelee/Documents/ECE385/final/test_memory.sv
+L0 26
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/mikelee/Documents/ECE385/final/test_memory.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/test_memory.sv|
+!i113 1
+R6
+R7
+R8
+vtestbench
+R1
+R9
+!i10b 1
+!s100 KTnN<F1omIESb=eZ[aXGj3
+I^M<EYc[B5a0N<IiW5GU662
+R3
+!s105 testbench_sv_unit
+S1
+R0
+w1652310966
+8C:/Users/mikelee/Documents/ECE385/final/testbench.sv
+FC:/Users/mikelee/Documents/ECE385/final/testbench.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/mikelee/Documents/ECE385/final/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/mikelee/Documents/ECE385/final|C:/Users/mikelee/Documents/ECE385/final/testbench.sv|
+!i113 1
+R6
+R7
+R8
